@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ABK Bhuiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abkbhuiyan&show_icons=true&theme=radical)
-
+![ABK Bhuiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abkbhuiyan&show_icons=true&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abkbhuiyan&theme=transparent&border_radius=5&exclude_days=Fri%2CSat&card_width=500&background=45%2CE8EBB9%2CEBCEE0&stroke=EB40E6&fire=EB4034&sideLabels=1D08EB)](https://git.io/streak-stats)
