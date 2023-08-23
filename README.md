@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :school: I am a `Enior Software Engineer` at [Contessa Solutions and Consultant Limited](https://contessabd.com/)  And Part Tme Faculty at [Daffodil International University University](https://faculty.daffodilvarsity.edu.bd/profile/cis/kasem.html).
+- 👨‍🏫: I am a `Enior Software Engineer` at [Contessa Solutions and Consultant Limited](https://contessabd.com/)  And Part Tme Faculty at [Daffodil International University University](https://faculty.daffodilvarsity.edu.bd/profile/cis/kasem.html).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
