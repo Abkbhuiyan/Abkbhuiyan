@@ -6,7 +6,7 @@
 
 <br>
 
-<!--<p align="center"> -->
+<!---<p align="center"> -->
 <!---	<img src="https://komarev.com/ghpvc/?username=Abkbhuiyan&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> -->
 	
 	<!---	<a href = "https://commits.top/egypt.html" target="_blank">
