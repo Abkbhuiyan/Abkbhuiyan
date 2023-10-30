@@ -84,6 +84,7 @@
   <a href="https://vuejs.org/" target="_blank">
     <img alt="VUE.js" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D">
   </a> 
+  &emsp;
    <a href="https://react.dev/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB">
   </a> 
