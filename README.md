@@ -183,8 +183,7 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abkbhuiyan&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+
 
  
 </details>
