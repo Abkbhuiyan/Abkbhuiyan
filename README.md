@@ -14,7 +14,7 @@
 - :technologist: I love to solve evry `problem` using software in an innovative way.
 - :computer: I am a competitive programmer at `Codeforces`, `URI`, `Leetcode`, `UVA`, `Google Contests`.
 - :student: I’m a continuous learner, currently trying to explore the various paths in `Computer Science & Engineering` .
-- :nerd_face: Always `learning new things`.
+- :nerd_face: Always keen to `Take challenges & Learn New Technologies`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [My LinkedIn Profile]([http://lnkiy.in/Ahmed_Hossam_Resume](https://www.linkedin.com/in/abdullah-bin-kasem-bhuiyan/)).
 <br>
 
