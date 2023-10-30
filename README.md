@@ -78,7 +78,7 @@
   </a> 
   &emsp;
  <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white">
   </a> 
   &emsp;
   <a href="https://vuejs.org/" target="_blank">
@@ -87,7 +87,6 @@
    <a href="https://react.dev/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB">
   </a> 
-  &emsp;
 
 </p>
 
