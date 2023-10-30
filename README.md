@@ -9,14 +9,13 @@
 
 <br><br>
 
-- 👨‍🏫: I am a `Enior Software Engineer` at [Contessa Solutions and Consultant Limited](https://contessabd.com/)  And Part Tme Faculty at [Daffodil International University University](https://faculty.daffodilvarsity.edu.bd/profile/cis/kasem.html).
-- :trophy: 2x `ACPC` Finalist. Experienced Software Engineer with a proven track record of 5+ years in web development, system architecture, and team leadership
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- 👨‍🏫: I am a `Senior Software Engineer` at [Contessa Solutions and Consultant Limited](https://contessabd.com/)  And Part Tme Faculty at [Daffodil International University University](https://faculty.daffodilvarsity.edu.bd/profile/cis/kasem.html).
+- :trophy: 2x `ACPC` Finalist. Experienced Software Engineer with a proven track record of 4+ years in web development, system architecture, and team leadership
+- :technologist: I love to solve evry `problem` using software in an innovative way.
+- :computer: I am a competitive programmer at `Codeforces`, `URI`, `Leetcode`, `UVA`, `Google Contests`.
+- :student: I’m a continuous learner, currently trying to explore the various paths in `Computer Science & Engineering` .
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [My LinkedIn Profile]([http://lnkiy.in/Ahmed_Hossam_Resume](https://www.linkedin.com/in/abdullah-bin-kasem-bhuiyan/)).
 <br>
 
 
